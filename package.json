@@ -1,0 +1,25 @@
+{
+  "name": "insta-mern-clone",
+  "version": "1.0.0",
+  "description": "Instagram clone build",
+  "main": "server.js",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "mongoose": "^5.10.16"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chandrasekhar2039/insta-MERN-clone.git"
+  },
+  "author": "Chandrasekhar samanta",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chandrasekhar2039/insta-MERN-clone/issues"
+  },
+  "homepage": "https://github.com/chandrasekhar2039/insta-MERN-clone#readme"
+}
